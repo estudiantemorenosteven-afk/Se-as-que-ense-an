@@ -13,9 +13,10 @@ Consulta [GUIA_PUBLICACION.md](GUIA_PUBLICACION.md) para los pasos completos y [
 ## Experiencias
 
 - Ruta introductoria y decisiones docentes con retroalimentación.
-- Repertorio de 60 señas y expresiones de fuentes educativas.
+- Repertorio de 61 señas y expresiones de fuentes educativas.
 - Búsqueda, filtros, favoritas y registro de práctica.
-- Taller guiado de siete pasos que conduce a un borrador de clase.
+- Misiones de Ecosistemas, La célula, Estados de la materia y Primeras señas, con pistas y sugerencias para el aula.
+- Taller guiado de siete pasos con retos que conduce a un borrador de clase.
 - Mediateca y kit imprimible.
 - Ajustes de lectura y modo enfoque.
 - Respaldo y recuperación voluntaria del avance para cambiar de dispositivo.
